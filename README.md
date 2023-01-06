@@ -23,6 +23,5 @@ TODO:
   - Have a script to edit the config file through a gui
   - Modernize the data collection (SQL)?
   - Set new data collection to run in parallel to not interrupt current collection
-  - SQL server??? 
 
 
