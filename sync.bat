@@ -4,7 +4,7 @@ git update-index --assume-unchanged sync.bat
 
 git add --all
 
-git commit -m "Sync from PC6"
+git commit -m "Sync from PC1-YORK"
 
 git push
 
@@ -12,7 +12,7 @@ git pull
 
 git add --all
 
-git commit -m "Sync from PC6"
+git commit -m "Sync from PC1-YORK"
 
 git push
 
@@ -20,7 +20,7 @@ git pull
 
 git add --all
 
-git commit -m "Sync from PC6"
+git commit -m "Sync from PC1-YORK"
 
 git push
 
@@ -28,7 +28,7 @@ git pull
 
 git add --all
 
-git commit -m "Sync from PC6"
+git commit -m "Sync from PC1-YORK"
 
 git push
 
