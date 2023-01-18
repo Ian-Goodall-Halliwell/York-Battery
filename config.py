@@ -1,7 +1,7 @@
 import yaml
 
 default_config = {
-    "randomize_task":False,
+    "randomize_task":True,
     "num_task_in_subset":5,
 
 }
