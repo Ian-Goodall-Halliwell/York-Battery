@@ -1,0 +1,59 @@
+pygame 2.1.2 (SDL 2.0.18, Python 3.6.13)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[2036665, 'Enter Name Here']
+
+
+
+
+
+
+
+Now initializing Movie Task
+Now setting up Movie Task
+Now running Movie Task
+Now starting ESQ for Movie Task-Movie Task-bridge
+Now initializing Movie Task
+Now setting up Movie Task
+Now running Movie Task
+Now starting ESQ for Movie Task-Movie Task-incept
+Now initializing GoNoGo Task
+Now setting up GoNoGo Task
+Now running GoNoGo Task
+Now starting ESQ for GoNoGo Task
+Now initializing GoNoGo Task
+Now setting up GoNoGo Task
+Now running GoNoGo Task
+Now starting ESQ for GoNoGo Task
+Now initializing GoNoGo Task
+Now setting up GoNoGo Task
+Now running GoNoGo Task
+Now starting ESQ for GoNoGo Task
+Now initializing Finger Tapping Task
+Now setting up Finger Tapping Task
+Now running Finger Tapping Task
+2.2221 	WARNING 	Speech-to-text recognition module not available (use command `pip install SpeechRecognition` to get it. Transcription will be unavailable.
+2.3044 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+4.3266 	WARNING 	Monitor specification not found. Creating a temporary one...
+68.7074 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+149.1479 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+261.1462 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+297.3918 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+388.9705 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+1392.3418 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+5984.5364 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+6850.9618 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+6960.1832 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+7417.1445 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+7435.5472 	WARNING 	ExperimentHandler created with no dataFileName parameter. No data will be saved in the event of a crash
+Now starting ESQ for Finger Tapping Task
+Now initializing Finger Tapping Task
+Now setting up Finger Tapping Task
+Now running Finger Tapping Task
+9829.3952 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+9847.6574 	WARNING 	ExperimentHandler created with no dataFileName parameter. No data will be saved in the event of a crash
+Now starting ESQ for Finger Tapping Task
+Now initializing Finger Tapping Task
+Now setting up Finger Tapping Task
+Now running Finger Tapping Task
+10417.7833 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+10436.4933 	WARNING 	ExperimentHandler created with no dataFileName parameter. No data will be saved in the event of a crash
